@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<osm>
+	<way changeset="42612190" id="4329600" timestamp="2016-10-03T18:31:17Z"
+		uid="6389" user="Jesús Gómez" version="7">
+		<nd ref="26347444" />
+		<nd ref="26347445" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="name" v="Calle de Peñas Rocías" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39011" />
+	</way>
+	<way changeset="42612190" id="4329601" timestamp="2016-10-03T18:31:17Z"
+		uid="6389" user="Jesús Gómez" version="6">
+		<nd ref="26347445" />
+		<nd ref="26347437" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="name" v="Calle de Peñas Rocías" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39011" />
+	</way>
+	<way changeset="42612190" id="4329602" timestamp="2016-10-03T18:31:17Z"
+		uid="6389" user="Jesús Gómez" version="7">
+		<nd ref="26347437" />
+		<nd ref="26347380" />
+		<nd ref="26347382" />
+		<nd ref="26347383" />
+		<nd ref="26347384" />
+		<nd ref="26347389" />
+		<nd ref="26347390" />
+		<nd ref="287661051" />
+		<nd ref="26347395" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="name" v="Calle de Peñas Rocías" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39011" />
+	</way>
+	<way changeset="42612190" id="4329604" timestamp="2016-10-03T18:31:19Z"
+		uid="6389" user="Jesús Gómez" version="6">
+		<nd ref="26347379" />
+		<nd ref="1196630891" />
+		<nd ref="1196630741" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lanes:backward" v="1" />
+		<tag k="lanes:forward" v="1" />
+		<tag k="name" v="Calle del Río Asón" />
+		<tag k="oneway" v="no" />
+	</way>
+	<way changeset="42612190" id="4329605" timestamp="2016-10-03T18:31:10Z"
+		uid="6389" user="Jesús Gómez" version="6">
+		<nd ref="26347379" />
+		<nd ref="26347433" />
+		<nd ref="26347374" />
+		<nd ref="26347373" />
+		<nd ref="26347372" />
+		<nd ref="26347454" />
+		<nd ref="26347371" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="name" v="Avenida de Parayas" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39011" />
+	</way>
+	<way changeset="42612190" id="4329606" timestamp="2016-10-03T18:31:09Z"
+		uid="6389" user="Jesús Gómez" version="5">
+		<nd ref="26347371" />
+		<nd ref="26347361" />
+		<nd ref="26347430" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="name" v="Avenida de Parayas" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39011" />
+	</way>
+	<way changeset="42612190" id="4329607" timestamp="2016-10-03T18:31:20Z"
+		uid="6389" user="Jesús Gómez" version="8">
+		<nd ref="26347433" />
+		<nd ref="4003850313" />
+		<nd ref="4003850332" />
+		<nd ref="26347437" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lanes:backward" v="1" />
+		<tag k="lanes:forward" v="1" />
+		<tag k="name" v="Calle del Río Deva" />
+		<tag k="oneway" v="no" />
+		<tag k="postal_code" v="39011" />
+		<tag k="turn:lanes:backward" v="right" />
+		<tag k="turn:lanes:forward" v="right" />
+	</way>
+	<way changeset="42612190" id="4329608" timestamp="2016-10-03T18:31:20Z"
+		uid="6389" user="Jesús Gómez" version="6">
+		<nd ref="26347371" />
+		<nd ref="26347446" />
+		<nd ref="26347447" />
+		<nd ref="26347445" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="name" v="Calle del Río Miera" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39011" />
+	</way>
+	<way changeset="34280052" id="4332313" timestamp="2015-09-27T11:05:50Z"
+		uid="2904" user="Emilio Gomez" version="15">
+		<nd ref="26363222" />
+		<nd ref="26363212" />
+		<nd ref="26363103" />
+		<nd ref="3761329732" />
+		<nd ref="3761329731" />
+		<nd ref="300541266" />
+		<nd ref="1999314244" />
+		<nd ref="26363105" />
+		<nd ref="287661276" />
+		<nd ref="26363108" />
+		<nd ref="1898089434" />
+		<tag k="highway" v="motorway" />
+		<tag k="lanes" v="2" />
+		<tag k="maxspeed" v="80" />
+		<tag k="name" v="Avenida de Parayas" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39011" />
+		<tag k="ref" v="S-10" />
+		<tag k="wikipedia" v="es:S-10" />
+	</way>
+	<way changeset="38160561" id="4332323" timestamp="2016-03-30T07:53:02Z"
+		uid="2904" user="Emilio Gomez" version="8">
+		<nd ref="26363218" />
+		<nd ref="4086104327" />
+		<nd ref="26363219" />
+		<nd ref="26363220" />
+		<nd ref="26363221" />
+		<tag k="highway" v="motorway" />
+		<tag k="lanes" v="2" />
+		<tag k="name" v="Avenida de Parayas" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="39009" />
+		<tag k="ref" v="S-10" />
+		<tag k="wikipedia" v="es:S-10" />
+	</way>
+	<node changeset="22428913" id="26363212" lat="43.4513743" lon="-3.8284672"
+		timestamp="2014-05-19T17:06:44Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="37183586" id="4003850313" lat="43.4485507" lon="-3.8314446"
+		timestamp="2016-02-13T10:25:56Z" uid="2904" user="Emilio Gomez"
+		version="1">
+		<tag k="highway" v="crossing" />
+	</node>
+	<node changeset="114039" id="26347444" lat="43.4475406" lon="-3.8339726"
+		timestamp="2007-06-26T22:11:27Z" uid="4623" user="Quico" version="1" />
+	<node changeset="7521843" id="26347389" lat="43.4509063" lon="-3.8298270"
+		timestamp="2011-03-11T10:08:41Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="37183586" id="26347445" lat="43.4484857" lon="-3.8329438"
+		timestamp="2016-02-13T10:26:01Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="22006064" id="26347446" lat="43.4473472" lon="-3.8323162"
+		timestamp="2014-04-28T16:51:42Z" uid="2904" user="Emilio Gomez"
+		version="2">
+		<tag k="highway" v="crossing" />
+	</node>
+	<node changeset="229058" id="26347447" lat="43.4477518" lon="-3.8325520"
+		timestamp="2007-03-04T19:09:28Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="38160561" id="26363219" lat="43.4521411" lon="-3.8257126"
+		timestamp="2016-03-30T07:53:03Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="38160561" id="26363218" lat="43.4522262" lon="-3.8255178"
+		timestamp="2016-03-30T07:53:03Z" uid="2904" user="Emilio Gomez"
+		version="4" />
+	<node changeset="7521843" id="26347390" lat="43.4509280" lon="-3.8297259"
+		timestamp="2011-03-11T10:08:42Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="22006064" id="26347371" lat="43.4473255" lon="-3.8322683"
+		timestamp="2014-04-28T16:51:42Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="229058" id="26347372" lat="43.4478292" lon="-3.8319255"
+		timestamp="2007-03-04T19:09:10Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="7521843" id="26347395" lat="43.4509137" lon="-3.8295995"
+		timestamp="2011-03-11T10:08:42Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="229058" id="26347373" lat="43.4481081" lon="-3.8317126"
+		timestamp="2007-03-04T19:09:10Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="12980566" id="1898089434" lat="43.4488666" lon="-3.8309805"
+		timestamp="2012-09-04T11:28:51Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="229058" id="26347374" lat="43.4483936" lon="-3.8314946"
+		timestamp="2007-03-04T19:09:11Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="22006064" id="26347430" lat="43.4458384" lon="-3.8333684"
+		timestamp="2014-04-28T16:51:42Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="37681960" id="1196630741" lat="43.4499727" lon="-3.8306277"
+		timestamp="2016-03-08T09:10:52Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="711283" id="300541266" lat="43.4508882" lon="-3.8293566"
+		timestamp="2008-09-28T12:03:15Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="5242052" id="26363222" lat="43.4515462" lon="-3.8278896"
+		timestamp="2010-07-17T12:26:23Z" uid="2904" user="Emilio Gomez"
+		version="4" />
+	<node changeset="619894" id="26363221" lat="43.4518186" lon="-3.8269036"
+		timestamp="2008-07-28T23:56:09Z" uid="6053" user="RodrigoMoya"
+		version="3" />
+	<node changeset="42612190" id="287661051" lat="43.4509336" lon="-3.8296741"
+		timestamp="2016-10-03T18:31:25Z" uid="6389" user="Jesús Gómez"
+		version="3">
+		<tag k="crossing" v="traffic_signals" />
+		<tag k="highway" v="crossing" />
+	</node>
+	<node changeset="13766863" id="1999314244" lat="43.4506969" lon="-3.8295853"
+		timestamp="2012-11-05T22:00:36Z" uid="53891" user="nubarron" version="1" />
+	<node changeset="143002" id="26363220" lat="43.4520438" lon="-3.8260297"
+		timestamp="2007-07-13T13:36:05Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="3901" id="26347454" lat="43.4475530" lon="-3.8321109"
+		timestamp="2007-04-01T19:19:40Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="13766863" id="26363105" lat="43.4504925" lon="-3.8297678"
+		timestamp="2012-11-05T22:00:40Z" uid="53891" user="nubarron" version="5" />
+	<node changeset="229058" id="26347433" lat="43.4485018" lon="-3.8314184"
+		timestamp="2007-03-04T19:09:23Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="7521838" id="26347379" lat="43.4497218" lon="-3.8305109"
+		timestamp="2011-03-11T10:07:55Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="22428913" id="26363103" lat="43.4512039" lon="-3.8288834"
+		timestamp="2014-05-19T17:06:44Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="37183586" id="26347437" lat="43.4494265" lon="-3.8319448"
+		timestamp="2016-02-13T10:26:01Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="12980566" id="26363108" lat="43.4496170" lon="-3.8304096"
+		timestamp="2012-09-04T11:28:57Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="37663340" id="26347380" lat="43.4504152" lon="-3.8308690"
+		timestamp="2016-03-07T11:04:05Z" uid="2904" user="Emilio Gomez"
+		version="3" />
+	<node changeset="38160561" id="4086104327" lat="43.4521813" lon="-3.8256053"
+		timestamp="2016-03-30T07:52:58Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="34280052" id="3761329731" lat="43.4509771" lon="-3.8292549"
+		timestamp="2015-09-27T11:05:40Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="229058" id="26347382" lat="43.4505824" lon="-3.8307135"
+		timestamp="2007-03-04T19:09:14Z" uid="2904" user="Emilio Gomez"
+		version="1" />
+	<node changeset="42633072" id="3761329732" lat="43.4510536" lon="-3.8291323"
+		timestamp="2016-10-04T15:32:26Z" uid="6389" user="Jesús Gómez"
+		version="2">
+		<tag k="man_made" v="monitoring_station" />
+		<tag k="monitoring:traffic" v="yes" />
+		<tag k="operator" v="Ayuntamiento de Santander" />
+		<tag k="recording:automated" v="yes" />
+		<tag k="ref" v="1022" />
+		<tag k="source" v="Ayuntamiento de Santander" />
+		<tag k="source:date" v="2016-10-3" />
+		<tag k="traffic:sensor" v="loop" />
+		<tag k="url"
+			v="http://datos.santander.es/resource/?ds=datos-trafico&amp;id=5b8bfeac-a901-47fe-9f17-b6c6f7d3358a" />
+	</node>
+	<node changeset="222993" id="26347383" lat="43.4506450" lon="-3.8306291"
+		timestamp="2008-08-13T18:08:49Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="22006064" id="26347361" lat="43.4466522" lon="-3.8327673"
+		timestamp="2014-04-28T16:51:42Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="222993" id="26347384" lat="43.4506929" lon="-3.8305166"
+		timestamp="2008-08-13T18:08:50Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="37183586" id="4003850332" lat="43.4493869" lon="-3.8318920"
+		timestamp="2016-02-13T10:25:56Z" uid="2904" user="Emilio Gomez"
+		version="1">
+		<tag k="highway" v="crossing" />
+	</node>
+	<node changeset="711283" id="287661276" lat="43.4503511" lon="-3.8298738"
+		timestamp="2008-09-28T12:02:22Z" uid="2904" user="Emilio Gomez"
+		version="2" />
+	<node changeset="7521843" id="1196630891" lat="43.4497718" lon="-3.8305343"
+		timestamp="2011-03-11T10:08:40Z" uid="2904" user="Emilio Gomez"
+		version="1">
+		<tag k="highway" v="crossing" />
+	</node>
+</osm>
